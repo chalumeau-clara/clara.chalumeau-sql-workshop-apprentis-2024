@@ -1,0 +1,1 @@
+INSERT INTO album VALUES (DEFAULT, 'Traces'), (DEFAULT, 'France Gall'), (DEFAULT, 'Joe Dassin (Les Champs-Élysées)'), (DEFAULT, 'Dark Passion Play'), (DEFAULT,'Rammstein'), (DEFAULT,'Tribe of Force'),(DEFAULT,'The Deep & The Dark');

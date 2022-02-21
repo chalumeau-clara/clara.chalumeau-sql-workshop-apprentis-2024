@@ -1,0 +1,1 @@
+SELECT surname, customer.name, country || ', ' || city AS destination, hotel.name FROM customer INNER JOIN destination ON customer.top_destination=acronym INNER JOIN hotel ON destination.hotel_id=id ORDER BY surname, customer.name, destination, hotel.name;
